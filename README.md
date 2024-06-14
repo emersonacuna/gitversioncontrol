@@ -1,2 +1,0 @@
-# gitversioncontrol
-git version control
